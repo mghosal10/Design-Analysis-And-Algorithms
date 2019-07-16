@@ -1,0 +1,15 @@
+Consider the problem of making change for n cents using the fewest number of coins. Assume that each coin’s value is an integer.
+a. Describe a greedy algorithm to make change consisting of quarters, dimes, nickels, and pennies. Prove that your algorithm yields an optimal solution.
+b. Suppose that the available coins are in the denominations that are powers of c, i.e., the denominations are c 0 , c 1 , …, c k for some integers c > 1 and k ≥ 1. Show that the greedy algorithm always yields an optimal solution.
+c. Give an O(nk) time algorithm that makes change for any set of k different coin denominations, assuming that one of the coins is a penny.
+
+NOTE: Please Enter the coin denominations: in descending order 
+      For ex. 5 3 1 (not 1 3 5)
+
+2A) Code the greedy algorithm you propose in a and b.
+Compile - javac PowerDenominations.java
+Execute - java PowerDenominations
+
+2B) Code the algorithm you propose in c and show that it works for any set of k different coin denominations, assuming that one of the coins is a penny.
+Compile - javac FindingDenominations.java
+Execute - java FindingDenominations
