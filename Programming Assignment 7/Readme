@@ -1,0 +1,6 @@
+LONGEST COMMON SUBSEQUENCE
+
+INSTRUCTIONS TO EXECUTE:
+cd LongestCommonSubsequence 
+g++ main.cpp
+./a.out
