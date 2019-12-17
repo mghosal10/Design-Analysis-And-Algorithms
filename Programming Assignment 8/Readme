@@ -1,0 +1,6 @@
+PRIMS ALGORITHM
+
+INSTRUCTIONS TO EXECUTE:
+cd PrimsAlgo
+g++ main.cpp
+./a.out

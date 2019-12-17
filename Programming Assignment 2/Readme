@@ -1,3 +1,5 @@
+COOL SORT
+
 In this problem you will implement a sorting algorithm called the CoolSort(). We will take advantage of insertion sort for designing this sorting algorithm. The description of the sorting algorithm is as follows. 
 
 We will first choose a decreasing sequence of numbers that ends at 1. For example, let us consider the sequence of step sizes H = 5, 3, 1. You can choose any decreasing sequence. Note that the first element of the sequence is less than the number of elements in the array. 

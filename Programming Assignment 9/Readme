@@ -1,0 +1,7 @@
+DIJKSTRAS ALGORITHM
+
+INSTRUCTIONS TO EXECUTE:
+
+cd Dijkstras
+g++ main.cpp //to compile
+./a.out
